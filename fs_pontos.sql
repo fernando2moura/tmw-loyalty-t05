@@ -87,3 +87,4 @@ SELECT '{date}' AS dtRef,
         *
         
 FROM tb_join
+
